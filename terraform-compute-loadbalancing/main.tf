@@ -1,5 +1,5 @@
 /*
- *  OCI: Execução de script de instalação do apache + load balancing - via Terraform
+ *  OCI: Criação de instance + execução de script de instalação do Apache + Load Balancing - via Terraform
  *  
  *  
 */
